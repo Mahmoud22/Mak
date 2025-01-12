@@ -1,0 +1,363 @@
+  /* General styling to improve appearance */
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            direction: rtl; /* Right to left text alignment */
+        }
+
+        /* Container styling */
+        .container {
+            width: 80%;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        /* Styling for select boxes, inputs, and buttons */
+        select, input[type="number"], button {
+            padding: 8px;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+            width: 100%;
+            margin: 10px 0;
+            text-align: right;
+        }
+
+        /* Labels */
+        label {
+            font-weight: bold;
+            text-align: right;
+        }
+
+        /* Tables */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            table-layout: fixed; /* Ensures table width is evenly distributed */
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: center;
+            word-wrap: break-word; /* Ensures long text doesn't overflow */
+        }
+
+        /* Header styling */
+        th {
+            background-color: #007BFF;
+            color: white;
+        }
+
+        /* Cell background color */
+        td {
+            background-color: #f9f9f9;
+        }
+
+        /* Adjust for mobile responsiveness */
+        @media (max-width: 768px) {
+            .container {
+                width: 500%;
+            }
+
+            select, input[type="number"], button {
+                width: 100%; /* Ensures input elements are responsive */
+            }
+
+            table {
+                font-size: 14px;
+            }
+        }
+
+        /* Loading indicator */
+        #loadingIndicator {
+            display: none;
+            margin: 20px 0;
+            text-align: center;
+            font-size: 14px;
+            color: #007BFF;
+        }
+
+        /* Style for the Generate Categories Button */
+        #generateCategoriesBtn {
+            display: none; /* Keep it hidden initially */
+            background-color: #007BFF; /* Primary color */
+            color: white; /* Text color */
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s, transform 0.2s;
+            width: auto; /* Adjust width based on content */
+            text-align: center;
+        }
+
+        /* Hover effect */
+        #generateCategoriesBtn:hover {
+            background-color: #0056b3; /* Darker shade on hover */
+            transform: translateY(-2px); /* Slight lift effect */
+        }
+
+        /* Focus effect for accessibility */
+        #generateCategoriesBtn:focus {
+            outline: none;
+            box-shadow: 0 0 0 3px rgba(38, 143, 255, 0.5); /* Focus ring */
+        }
+
+        /* Responsive adjustments for the Generate Categories Button */
+        @media (max-width: 768px) {
+            #generateCategoriesBtn {
+                width: 100%; /* Full width on smaller screens */
+                padding: 12px 0;
+                font-size: 18px;
+            }
+        }
+
+        /* Additional Styling for the 'غير معروف' case */
+        .unknown-service {
+            color: red; /* Highlight unknown services */
+            font-weight: bold;
+            text-align: center;
+        }
+
+        /* Spinner for loading services */
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #3498db;
+            border-radius: 50%;
+            width: 20px;
+            height: 20px;
+            animation: spin 1s linear infinite;
+            display: inline-block;
+            margin: 0 auto;
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        /* Highlight text styles for unknown services */
+        .unknown-service {
+            color: red; /* Highlight unknown services */
+            font-weight: bold;
+            text-align: center;
+        }
+
+        /* Button styling for "حساب جديد" */
+        button {
+            padding: 6px 12px; /* Reduce padding for a smaller button */
+            font-size: 14px; /* Smaller font size */
+            background-color: #007bff;
+            border: none;
+            color: white;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #0056b3; /* Darker shade on hover */
+        }
+
+        /* Optional: Fine-tune the width of the modal */
+        .modal-dialog {
+            max-width: 90%; /* Adjust the width of the modal */
+        }
+
+    
+  
+
+
+
+
+
+
+    /* General styling */
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: #f4f4f9;
+        margin: 0;
+        padding: 0;
+        direction: rtl; /* Arabic text alignment */
+    }
+
+    /* General container styling */
+    .container {
+        width: 80%;
+        padding: 20px;
+        background-color: #fff;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+        overflow: hidden;
+        margin-top: 20px;
+    }
+
+    /* Styling for select boxes, inputs, and buttons */
+    select, input[type="number"], button {
+        padding: 8px;
+        border-radius: 4px;
+        border: 1px solid #ccc;
+        width: 100%;
+        margin: 10px 0;
+        text-align: right;
+    }
+
+    /* Labels */
+    label {
+        font-weight: bold;
+        text-align: right;
+    }
+
+    /* Table styling */
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+        table-layout: fixed; /* Ensures table width is evenly distributed */
+        border: 1px solid #ddd;
+        background-color: #f9f9f9;
+    }
+
+    th, td {
+        padding: 12px;
+        text-align: center;
+        word-wrap: break-word;
+        border: 1px solid #ddd;
+    }
+
+    /* Header styling */
+    th {
+        background-color: #007BFF;
+        color: white;
+    }
+
+    tbody tr:nth-child(even) {
+        background-color: #e9ecef;
+    }
+
+    /* Cell background color */
+    td {
+        background-color: #f9f9f9;
+    }
+
+    /* Adjust for mobile responsiveness */
+    @media (max-width: 768px) {
+        .container {
+            width: 500%;
+        }
+
+        select, input[type="number"], button {
+            width: 100%; /* Ensures input elements are responsive */
+        }
+
+        table {
+            font-size: 14px;
+        }
+
+        /* Responsive adjustments for the Generate Categories Button */
+        #newOperationBtn {
+            width: 100%; /* Full width on smaller screens */
+            padding: 12px 0;
+            font-size: 18px;
+        }
+    }
+
+    /* Loading indicator */
+    #loadingIndicator {
+        display: none;
+        margin: 20px 0;
+        text-align: center;
+        font-size: 14px;
+        color: #007BFF;
+    }
+
+    /* Style for the new operation Button */
+    #newOperationBtn {
+        display: none; /* Keep it hidden initially */
+        background-color: #007BFF; /* Primary color */
+        color: white; /* Text color */
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: background-color 0.3s, transform 0.2s;
+        width: auto; /* Adjust width based on content */
+        text-align: center;
+    }
+
+    /* Hover effect */
+    #newOperationBtn:hover {
+        background-color: #0056b3; /* Darker shade on hover */
+        transform: translateY(-2px); /* Slight lift effect */
+    }
+
+    /* Focus effect for accessibility */
+    #newOperationBtn:focus {
+        outline: none;
+        box-shadow: 0 0 0 3px rgba(38, 143, 255, 0.5); /* Focus ring */
+    }
+
+    /* Additional Styling for the 'غير معروف' case */
+    .unknown-service {
+        color: red; /* Highlight unknown services */
+        font-weight: bold;
+        text-align: center;
+    }
+
+    /* Spinner for loading services */
+    .spinner {
+        border: 4px solid #f3f3f3;
+        border-top: 4px solid #3498db;
+        border-radius: 50%;
+        width: 20px;
+        height: 20px;
+        animation: spin 1s linear infinite;
+        display: inline-block;
+        margin: 0 auto;
+    }
+
+    @keyframes spin {
+        0% {
+            transform: rotate(0deg);
+        }
+        100% {
+            transform: rotate(360deg);
+        }
+    }
+
+    /* Button styling for "إضافة عملية جديدة" */
+    button {
+        padding: 2px 6px; /* Reduce padding for a smaller button */
+        font-size: 14px; /* Smaller font size */
+        background-color: #007bff;
+        border: none;
+        color: white;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+    button:hover {
+        background-color: #0056b3; /* Darker shade on hover */
+    }
+
+    /* Optional: Fine-tune the width of the modal */
+    .modal-dialog {
+        max-width: 90%; /* Adjust the width of the modal */
+    }
+

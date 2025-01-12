@@ -1,0 +1,1304 @@
+----- New Request: 2025-01-05 04:40:02 -----
+POST Data:
+Array
+(
+    [client_id] => gg
+    [project_id] => mm
+    [unit] => 3
+    [length] => 7
+    [width] => 7
+    [height] => 7
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":343,"price":200,"accountType":"م2"}]},{"category":"أخرى","services":[{"serviceId":62,"quantity":1,"price":100,"accountType":"موقع"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => clipart1822788.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php8918.tmp
+            [error] => 0
+            [size] => 108806
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\php8929.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 04:40:29 -----
+POST Data:
+Array
+(
+    [client_id] => gg
+    [project_id] => mm
+    [unit] => 3
+    [length] => 7
+    [width] => 7
+    [height] => 7
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":343,"price":200,"accountType":"م2"}]},{"category":"أخرى","services":[{"serviceId":62,"quantity":1,"price":100,"accountType":"موقع"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => clipart1822788.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpF34E.tmp
+            [error] => 0
+            [size] => 108806
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\phpF34F.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 04:41:58 -----
+POST Data:
+Array
+(
+    [client_id] => gg
+    [project_id] => mm
+    [unit] => 2
+    [length] => 4
+    [width] => 4
+    [height] => 4
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":64,"price":200,"accountType":"م2"}]}]
+)
+
+FILES Data:
+Array
+(
+)
+
+----- New Request: 2025-01-05 04:43:53 -----
+POST Data:
+Array
+(
+    [client_id] => gg
+    [project_id] => mm
+    [unit] => 2
+    [length] => 2
+    [width] => 2
+    [height] => 2
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":8,"price":200,"accountType":"م2"}]},{"category":"أخرى","services":[{"serviceId":62,"quantity":1,"price":100,"accountType":"موقع"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => 1000023474.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpEE8.tmp
+            [error] => 0
+            [size] => 40220
+        )
+
+    [video] => Array
+        (
+            [name] => 1000023550.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\phpEE9.tmp
+            [error] => 0
+            [size] => 288133
+        )
+
+)
+
+----- New Request: 2025-01-05 04:45:48 -----
+POST Data:
+Array
+(
+    [client_id] => gg
+    [project_id] => mm
+    [unit] => 2
+    [length] => 4
+    [width] => 4
+    [height] => 4
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":64,"price":200,"accountType":"م2"}]}]
+)
+
+FILES Data:
+Array
+(
+)
+
+----- New Request: 2025-01-05 04:48:51 -----
+POST Data:
+Array
+(
+    [client_id] => gg
+    [project_id] => mm
+    [unit] => 2
+    [length] => 6
+    [width] => 6
+    [height] => 6
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":216,"price":200,"accountType":"م2"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => clipart1822788.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php9E36.tmp
+            [error] => 0
+            [size] => 108806
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\php9E37.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 04:53:03 -----
+POST Data:
+Array
+(
+    [client_id] => gg
+    [project_id] => mm
+    [unit] => 4
+    [length] => 2
+    [width] => 2
+    [height] => 2
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":8,"price":200,"accountType":"م2"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => clipart1822788.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php7494.tmp
+            [error] => 0
+            [size] => 108806
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\php7495.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 04:57:26 -----
+POST Data:
+Array
+(
+    [client_id] => gg
+    [project_id] => mm
+    [unit] => 2
+    [length] => 2
+    [width] => 3
+    [height] => 2
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":12,"price":200,"accountType":"م2"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => clipart1822788.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php77CF.tmp
+            [error] => 0
+            [size] => 108806
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\php77D0.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 05:01:35 -----
+POST Data:
+Array
+(
+    [client_id] => gg
+    [project_id] => mm
+    [unit] => 3
+    [length] => 2
+    [width] => 4
+    [height] => 3
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":24,"price":200,"accountType":"م2"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => clipart1822788.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php46FA.tmp
+            [error] => 0
+            [size] => 108806
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\php46FB.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 05:04:40 -----
+POST Data:
+Array
+(
+    [client_id] => gg
+    [project_id] => mm
+    [unit] => 1
+    [length] => 2
+    [width] => 2
+    [height] => 2
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":8,"price":200,"accountType":"م2"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => clipart1822788.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php1713.tmp
+            [error] => 0
+            [size] => 108806
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\php1714.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 05:06:50 -----
+POST Data:
+Array
+(
+    [client_id] => maks
+    [project_id] => maker
+    [unit] => 3
+    [length] => 5
+    [width] => 5
+    [height] => 5
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":125,"price":200,"accountType":"م2"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => clipart1822788.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php123B.tmp
+            [error] => 0
+            [size] => 108806
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\php124C.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 05:09:09 -----
+POST Data:
+Array
+(
+    [client_id] => gg
+    [project_id] => mm
+    [unit] => 2
+    [length] => 3
+    [width] => 3
+    [height] => 3
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":27,"price":200,"accountType":"م2"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => clipart1822788.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php331A.tmp
+            [error] => 0
+            [size] => 108806
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\php331B.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 05:15:14 -----
+POST Data:
+Array
+(
+    [client_id] => gg
+    [project_id] => mm
+    [unit] => 2
+    [length] => 3
+    [width] => 3
+    [height] => 3
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":27,"price":200,"accountType":"م2"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => clipart1822788.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpC3B1.tmp
+            [error] => 0
+            [size] => 108806
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\phpC3B2.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 05:24:44 -----
+POST Data:
+Array
+(
+    [client_id] => gg
+    [project_id] => mm
+    [unit] => 2
+    [length] => 2
+    [width] => 2
+    [height] => 2
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":8,"price":200,"accountType":"م2"}]},{"category":"أخرى","services":[{"serviceId":62,"quantity":1,"price":100,"accountType":"موقع"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => clipart1822788.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php7672.tmp
+            [error] => 0
+            [size] => 108806
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\php7673.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 05:50:44 -----
+POST Data:
+Array
+(
+    [client] => gg
+    [project] => maker
+    [unit] => 2
+    [length] => 2
+    [width] => 2
+    [height] => 2
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":8,"price":200,"accountType":"م2"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => clipart1822788.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php4503.tmp
+            [error] => 0
+            [size] => 108806
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\php4513.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 05:51:53 -----
+POST Data:
+Array
+(
+    [client] => mahmoud
+    [project] => ahmed
+    [unit] => 3
+    [length] => 3
+    [width] => 3
+    [height] => 3
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":27,"price":200,"accountType":"م2"}]},{"category":"أخرى","services":[{"serviceId":62,"quantity":3,"price":100,"accountType":"موقع"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => 421ce403-bdff-44e0-acb8-a3c13302056d.webp
+            [type] => image/webp
+            [tmp_name] => C:\xampp\tmp\php51B2.tmp
+            [error] => 0
+            [size] => 321310
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\php51C3.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 12:51:04 -----
+POST Data:
+Array
+(
+)
+
+FILES Data:
+Array
+(
+)
+
+----- New Request: 2025-01-05 12:52:00 -----
+POST Data:
+Array
+(
+    [client] => maker
+    [project] => mak
+    [unit] => 1
+    [length] => 2
+    [width] => 2
+    [height] => 2
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":8,"price":200,"accountType":"م2"}]},{"category":"أخرى","services":[{"serviceId":62,"quantity":1,"price":100,"accountType":"موقع"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => clipart1822788.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpF20F.tmp
+            [error] => 0
+            [size] => 108806
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\phpF220.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 12:53:11 -----
+POST Data:
+Array
+(
+    [client] => Khaled
+    [project] => Nnn
+    [unit] => 23
+    [length] => 3
+    [width] => 3
+    [height] => 3
+    [unitsData] => [{"category":"بلاط","services":[{"serviceId":6,"quantity":27,"price":100,"accountType":"م2"},{"serviceId":7,"quantity":27,"price":100,"accountType":"م2"}]},{"category":"أخرى","services":[{"serviceId":62,"quantity":1,"price":100,"accountType":"موقع"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => 1736077968434797318646753289189.jpg
+            [type] => 
+            [tmp_name] => 
+            [error] => 1
+            [size] => 0
+        )
+
+    [video] => Array
+        (
+            [name] => VID_20250105_145302.mp4
+            [type] => 
+            [tmp_name] => 
+            [error] => 1
+            [size] => 0
+        )
+
+)
+
+----- New Request: 2025-01-05 13:25:52 -----
+POST Data:
+Array
+(
+)
+
+FILES Data:
+Array
+(
+)
+
+----- New Request: 2025-01-05 13:28:10 -----
+POST Data:
+Array
+(
+)
+
+FILES Data:
+Array
+(
+)
+
+----- New Request: 2025-01-05 13:37:00 -----
+POST Data:
+Array
+(
+    [client] => Hh
+    [project] => Gg
+    [unit] => 3
+    [length] => 2
+    [width] => 2
+    [height] => 2
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":8,"price":200,"accountType":"م2"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => 17360806005704340210321465227378.jpg
+            [type] => 
+            [tmp_name] => 
+            [error] => 1
+            [size] => 0
+        )
+
+    [video] => Array
+        (
+            [name] => VID_20250105_153652.mp4
+            [type] => 
+            [tmp_name] => 
+            [error] => 1
+            [size] => 0
+        )
+
+)
+
+----- New Request: 2025-01-05 14:01:23 -----
+POST Data:
+Array
+(
+    [client] => Ggg
+    [project] => Mmm
+    [unit] => 1
+    [length] => 11
+    [width] => 2
+    [height] => 33
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":726,"price":200,"accountType":"م2"}]},{"category":"أخرى","services":[{"serviceId":62,"quantity":1,"price":100,"accountType":"موقع"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => 17360820614691145601394146330689.jpg
+            [type] => 
+            [tmp_name] => 
+            [error] => 1
+            [size] => 0
+        )
+
+    [video] => Array
+        (
+            [name] => VID_20250105_160117.mp4
+            [type] => 
+            [tmp_name] => 
+            [error] => 1
+            [size] => 0
+        )
+
+)
+
+----- New Request: 2025-01-05 14:09:26 -----
+POST Data:
+Array
+(
+    [client] => Tt
+    [project] => Bb
+    [unit] => 4
+    [length] => 3
+    [width] => 3
+    [height] => 3
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":27,"price":200,"accountType":"م2"}]},{"category":"أخرى","services":[{"serviceId":62,"quantity":1,"price":100,"accountType":"موقع"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => 17360825371822841916071350962857.jpg
+            [type] => 
+            [tmp_name] => 
+            [error] => 1
+            [size] => 0
+        )
+
+    [video] => Array
+        (
+            [name] => VID_20250105_160915.mp4
+            [type] => 
+            [tmp_name] => 
+            [error] => 1
+            [size] => 0
+        )
+
+)
+
+----- New Request: 2025-01-05 14:11:10 -----
+POST Data:
+Array
+(
+    [client] => Ss
+    [project] => Aa
+    [unit] => 3
+    [length] => 2
+    [width] => 2
+    [height] => 2
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":8,"price":200,"accountType":"م2"}]},{"category":"أخرى","services":[{"serviceId":62,"quantity":1,"price":100,"accountType":"موقع"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => 17360826440193630366067098626202.jpg
+            [type] => 
+            [tmp_name] => 
+            [error] => 1
+            [size] => 0
+        )
+
+    [video] => Array
+        (
+            [name] => VID_20250105_161057.mp4
+            [type] => 
+            [tmp_name] => 
+            [error] => 1
+            [size] => 0
+        )
+
+)
+
+----- New Request: 2025-01-05 14:12:11 -----
+POST Data:
+Array
+(
+    [client] => test
+    [project] => test
+    [unit] => 3
+    [length] => 3
+    [width] => 3
+    [height] => 3
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":27,"price":200,"accountType":"م2"}]},{"category":"أخرى","services":[{"serviceId":62,"quantity":1,"price":100,"accountType":"موقع"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => clipart1822788.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php5A5B.tmp
+            [error] => 0
+            [size] => 108806
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\php5A5C.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 14:13:44 -----
+POST Data:
+Array
+(
+    [client_id] => Hh
+    [project_id] => [object HTMLInputElement]
+    [unit] => 1
+    [length] => 22
+    [width] => 22
+    [height] => 22
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":10648,"price":200,"accountType":"م2"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => 2224db5c-8693-4574-9155-ef11e8724377.jfif
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpC845.tmp
+            [error] => 0
+            [size] => 192869
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\phpC855.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 14:13:56 -----
+POST Data:
+Array
+(
+    [client_id] => Hh
+    [project_id] => [object HTMLInputElement]
+    [unit] => 1
+    [length] => 22
+    [width] => 22
+    [height] => 22
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":10648,"price":200,"accountType":"م2"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => 2224db5c-8693-4574-9155-ef11e8724377.jfif
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpF4A6.tmp
+            [error] => 0
+            [size] => 192869
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\phpF4B7.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 14:17:30 -----
+POST Data:
+Array
+(
+    [client_id] => Hh
+    [project_id] => Gg
+    [unit] => 2
+    [length] => 5
+    [width] => 5
+    [height] => 5
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":125,"price":200,"accountType":"م2"}]},{"category":"أخرى","services":[{"serviceId":62,"quantity":1,"price":100,"accountType":"موقع"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => 421ce403-bdff-44e0-acb8-a3c13302056d.webp
+            [type] => image/webp
+            [tmp_name] => C:\xampp\tmp\php3925.tmp
+            [error] => 0
+            [size] => 321310
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\php3945.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 14:21:01 -----
+POST Data:
+Array
+(
+    [client_id] => Hh
+    [project_id] => Gg
+    [unit] => 2
+    [length] => 4
+    [width] => 4
+    [height] => 4
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":64,"price":200,"accountType":"م2"}]},{"category":"أخرى","services":[{"serviceId":62,"quantity":1,"price":100,"accountType":"موقع"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => clipart1822788.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php719D.tmp
+            [error] => 0
+            [size] => 108806
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\php719E.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 14:31:14 -----
+POST Data:
+Array
+(
+    [client_id] => Hh
+    [project_id] => Gg
+    [unit] => 2
+    [length] => 6
+    [width] => 6
+    [height] => 6
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":216,"price":200,"accountType":"م2"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => clipart1822788.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpCBF8.tmp
+            [error] => 0
+            [size] => 108806
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\phpCBF9.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 14:32:10 -----
+POST Data:
+Array
+(
+    [client_id] => Hh
+    [project_id] => Gg
+    [unit] => 2
+    [length] => 2
+    [width] => 2
+    [height] => 2
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":8,"price":200,"accountType":"م2"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => clipart1822788.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpA88F.tmp
+            [error] => 0
+            [size] => 108806
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\phpA8A0.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 14:34:31 -----
+POST Data:
+Array
+(
+    [client_id] => Hh
+    [project_id] => Gg
+    [unit] => 1
+    [length] => 4
+    [width] => 4
+    [height] => 4
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":64,"price":200,"accountType":"م2"}]},{"category":"أخرى","services":[{"serviceId":62,"quantity":1,"price":100,"accountType":"موقع"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => clipart1822788.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\phpCD07.tmp
+            [error] => 0
+            [size] => 108806
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\phpCD08.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 14:35:18 -----
+POST Data:
+Array
+(
+    [client] => bbB
+    [project] => BB
+    [unit] => 3
+    [length] => 3
+    [width] => 3
+    [height] => 3
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":27,"price":200,"accountType":"م2"}]},{"category":"أخرى","services":[{"serviceId":62,"quantity":11,"price":100,"accountType":"موقع"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => clipart1822788.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php8703.tmp
+            [error] => 0
+            [size] => 108806
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\php8704.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 15:45:15 -----
+POST Data:
+Array
+(
+    [client] => aa
+    [project] => aa
+    [unit] => 1
+    [length] => 4
+    [width] => 4
+    [height] => 1
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":16,"price":200,"accountType":"م2"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => clipart1822788.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php7367.tmp
+            [error] => 0
+            [size] => 108806
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\php7378.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 22:48:56 -----
+POST Data:
+Array
+(
+    [client] => 
+    [project] => 
+    [unit] => 2
+    [length] => 
+    [width] => 
+    [height] => 
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":0,"price":200,"accountType":"م2"}]},{"category":"بلاط","services":[{"serviceId":6,"quantity":0,"price":100,"accountType":"م2"},{"serviceId":7,"quantity":0,"price":100,"accountType":"م2"},{"serviceId":11,"quantity":0,"price":100,"accountType":"م2"},{"serviceId":12,"quantity":0,"price":100,"accountType":"م2"},{"serviceId":13,"quantity":0,"price":100,"accountType":"م2"}]},{"category":"بناء","services":[{"serviceId":15,"quantity":0,"price":100,"accountType":"م2"}]},{"category":"هد/إزالة","services":[{"serviceId":17,"quantity":0,"price":100,"accountType":"م2"},{"serviceId":18,"quantity":0,"price":100,"accountType":"م2"}]},{"category":"لياسة","services":[{"serviceId":20,"quantity":0,"price":100,"accountType":"م2"},{"serviceId":21,"quantity":0,"price":100,"accountType":"م2"},{"serviceId":22,"quantity":0,"price":100,"accountType":"م2"},{"serviceId":26,"quantity":0,"price":100,"accountType":"م2"}]},{"category":"جبس","services":[{"serviceId":27,"quantity":0,"price":100,"accountType":"م2"},{"serviceId":28,"quantity":0,"price":100,"accountType":"م2"},{"serviceId":29,"quantity":0,"price":100,"accountType":"م2"}]},{"category":"شبابيك","services":[{"serviceId":35,"quantity":0,"price":100,"accountType":"م2"}]},{"category":"أبواب","services":[{"serviceId":39,"quantity":0,"price":100,"accountType":"م2"},{"serviceId":40,"quantity":0,"price":100,"accountType":"م2"}]},{"category":"عوازل","services":[{"serviceId":46,"quantity":0,"price":100,"accountType":"م2"},{"serviceId":47,"quantity":0,"price":100,"accountType":"م2"},{"serviceId":48,"quantity":0,"price":100,"accountType":"م2"},{"serviceId":49,"quantity":0,"price":100,"accountType":"م2"},{"serviceId":51,"quantity":0,"price":100,"accountType":"م2"},{"serviceId":52,"quantity":0,"price":100,"accountType":"م2"}]},{"category":"أخرى","services":[{"serviceId":61,"quantity":0,"price":100,"accountType":"م2"},{"serviceId":63,"quantity":0,"price":100,"accountType":"م2"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => clipart1822788.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php4EAA.tmp
+            [error] => 0
+            [size] => 108806
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\php4EBA.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-05 23:18:15 -----
+POST Data:
+Array
+(
+)
+
+FILES Data:
+Array
+(
+)
+
+----- New Request: 2025-01-12 01:03:21 -----
+POST Data:
+Array
+(
+    [client] => mmm
+    [project] => nn
+    [unit] => 3
+    [length] => 1
+    [width] => 12
+    [height] => 122
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":1464,"price":200,"accountType":"م2"},{"serviceId":5,"quantity":1464,"price":100,"accountType":"م2"}]},{"category":"بلاط","services":[{"serviceId":6,"quantity":1464,"price":100,"accountType":"م2"},{"serviceId":7,"quantity":1464,"price":100,"accountType":"م2"},{"serviceId":11,"quantity":1464,"price":100,"accountType":"م2"},{"serviceId":12,"quantity":1464,"price":100,"accountType":"م2"},{"serviceId":13,"quantity":1464,"price":100,"accountType":"م2"}]},{"category":"بناء","services":[{"serviceId":15,"quantity":1464,"price":100,"accountType":"م2"}]},{"category":"هد/إزالة","services":[{"serviceId":17,"quantity":1464,"price":100,"accountType":"م2"},{"serviceId":18,"quantity":1464,"price":100,"accountType":"م2"}]},{"category":"لياسة","services":[{"serviceId":20,"quantity":1464,"price":100,"accountType":"م2"},{"serviceId":21,"quantity":1464,"price":100,"accountType":"م2"},{"serviceId":22,"quantity":1464,"price":100,"accountType":"م2"},{"serviceId":26,"quantity":1464,"price":100,"accountType":"م2"}]},{"category":"جبس","services":[{"serviceId":27,"quantity":1464,"price":100,"accountType":"م2"},{"serviceId":28,"quantity":1464,"price":100,"accountType":"م2"},{"serviceId":29,"quantity":1464,"price":100,"accountType":"م2"}]},{"category":"شبابيك","services":[{"serviceId":35,"quantity":1464,"price":100,"accountType":"م2"}]},{"category":"أبواب","services":[{"serviceId":39,"quantity":1464,"price":100,"accountType":"م2"},{"serviceId":40,"quantity":1464,"price":100,"accountType":"م2"}]},{"category":"عوازل","services":[{"serviceId":46,"quantity":1464,"price":100,"accountType":"م2"},{"serviceId":47,"quantity":1464,"price":100,"accountType":"م2"},{"serviceId":48,"quantity":1464,"price":100,"accountType":"م2"},{"serviceId":49,"quantity":1464,"price":100,"accountType":"م2"},{"serviceId":51,"quantity":1464,"price":100,"accountType":"م2"}]}]
+)
+
+FILES Data:
+Array
+(
+)
+
+----- New Request: 2025-01-12 01:53:15 -----
+POST Data:
+Array
+(
+    [client] => Fody
+    [project] => 
+    [unit] => 1
+    [length] => 2
+    [width] => 2
+    [height] => 2
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":8,"price":200,"accountType":"م2"},{"serviceId":2,"quantity":8,"price":70,"accountType":"م2"}]},{"category":"بناء","services":[{"serviceId":15,"quantity":8,"price":100,"accountType":"م2"},{"serviceId":16,"quantity":11,"price":100,"accountType":"عدد"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => 421ce403-bdff-44e0-acb8-a3c13302056d.webp
+            [type] => image/webp
+            [tmp_name] => C:\xampp\tmp\phpFEE.tmp
+            [error] => 0
+            [size] => 321310
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\phpFEF.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-12 01:55:06 -----
+POST Data:
+Array
+(
+    [client] => XXXX
+    [project] => XXXX
+    [unit] => 1
+    [length] => 2
+    [width] => 3
+    [height] => 4
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":24,"price":200,"accountType":"م2"}]}]
+)
+
+FILES Data:
+Array
+(
+    [photo] => Array
+        (
+            [name] => 421ce403-bdff-44e0-acb8-a3c13302056d.webp
+            [type] => image/webp
+            [tmp_name] => C:\xampp\tmp\phpC244.tmp
+            [error] => 0
+            [size] => 321310
+        )
+
+    [video] => Array
+        (
+            [name] => WhatsApp Video 2025-01-01 at 6.32.04 PM.mp4
+            [type] => video/mp4
+            [tmp_name] => C:\xampp\tmp\phpC245.tmp
+            [error] => 0
+            [size] => 1081065
+        )
+
+)
+
+----- New Request: 2025-01-12 15:23:42 -----
+POST Data:
+Array
+(
+    [client] => Yuy
+    [project] => Yuy
+    [unit] => 21
+    [length] => 4
+    [width] => 4
+    [height] => 4
+    [unitsData] => [{"category":"دهانات","services":[{"serviceId":1,"quantity":64,"price":200,"accountType":"م2"}]},{"category":"أخرى","services":[{"serviceId":61,"quantity":64,"price":100,"accountType":"م2"},{"serviceId":62,"quantity":5,"price":100,"accountType":"موقع"},{"serviceId":65,"quantity":2,"price":100,"accountType":"مقطوع"}]}]
+)
+
+FILES Data:
+Array
+(
+)
+
